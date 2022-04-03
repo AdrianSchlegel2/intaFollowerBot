@@ -1,2 +1,2 @@
 # intaFollowerBot
- This Bot automatically follows all people of another account
+ This Bot automatically follows all people of another account. Just enter all your instagram credentials and the account of which followers you want to follow and you are good to go. **(Please Note that your account could be temporary banned and that all delays in the code should be left as they are, as to not seem like a bot. This bot is also not allowed to be used to get followers in any ways as stated in the facebook guidelines).** I used the selenium webdriver module to build this application. 
